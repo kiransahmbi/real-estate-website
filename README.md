@@ -1,4 +1,4 @@
-# Real Estate Website
+# [Real Estate Website](https://kiransahmbi.github.io/real-estate-website)
 
 A sample real estate website.
 
@@ -7,8 +7,6 @@ Features:
 - Properties Page with links to view individual properties
 - Contact Us Page
 - Site Map
-
-## [View Project](https://kiransahmbi.github.io/real-estate-website)
 
 ## Languages & Tools
 HTML, CSS, Bootstrap
